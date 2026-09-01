@@ -23,7 +23,7 @@ capitalization of every character.
     <img width="710" height="216" alt="image" src="https://github.com/user-attachments/assets/ce2301af-a419-470f-b880-96a71059f5f1" />
 THE OUTPUTS:
 
-    <img width="416" height="173" alt="image" src="https://github.com/user-attachments/assets/9f4ccfe2-f8ef-4916-96b2-0ee3e88cf9e5" />
+<img width="416" height="173" alt="image" src="https://github.com/user-attachments/assets/9f4ccfe2-f8ef-4916-96b2-0ee3e88cf9e5" />
 
 
 # Problem B: USERNAME BUILDER PROBLEM
@@ -41,7 +41,7 @@ function must:
     <img width="923" height="157" alt="image" src="https://github.com/user-attachments/assets/c807a9ec-75ce-403a-9874-8aa4a147e8da" />
 THE OUTPUTS:
 
-    <img width="365" height="151" alt="image" src="https://github.com/user-attachments/assets/dac21362-3d23-4607-aae1-4693580f1c99" />
+<img width="365" height="151" alt="image" src="https://github.com/user-attachments/assets/dac21362-3d23-4607-aae1-4693580f1c99" />
 
 # Problem C: BOOKEND SWAP PROBLEM
 Create a function named swap bookends() that accepts a list containing at least two elements. Unpack
@@ -58,7 +58,7 @@ the list into three variables:
     <img width="767" height="172" alt="image" src="https://github.com/user-attachments/assets/60d7a11c-20b9-4013-9888-0dc95278a0eb" />
 THE OUTPUT:
 
-    <img width="432" height="135" alt="image" src="https://github.com/user-attachments/assets/64b7f578-4a7b-41f2-988f-5b70cfa260a9" />
+<img width="432" height="135" alt="image" src="https://github.com/user-attachments/assets/64b7f578-4a7b-41f2-988f-5b70cfa260a9" />
 
 
 
